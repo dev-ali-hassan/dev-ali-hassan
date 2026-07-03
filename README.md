@@ -13,63 +13,64 @@
 </p>
 <br />
 
-<h2 align="left">⚡ Tech Stack</h2>
+<br />
 
-<table>
-  <tr>
-    <td><strong>FRONTEND</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" /><br />React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" /><br />TypeScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" /><br />JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" /><br />HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" /><br />CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" /><br />Tailwind
-    </td>
-  </tr>
+<h2 align="center">⚡ Tech Stack</h2>
 
-  <tr>
-    <td><strong>BACKEND</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" /><br />Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" /><br />Express
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" /><br />PHP
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" /><br />MySQL
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td><strong>TOOLS</strong></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" /><br />Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" /><br />GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" /><br />VS Code
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="35" /><br />Vite
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" /><br />Figma
-    </td>
-  </tr>
-</table>
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="46" height="46" />
+</p>
+
+<p>
+  React &nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; Tailwind
+</p>
+
+<h3>Backend</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="46" height="46" />
+</p>
+
+<p>
+  Node.js &nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp; PHP &nbsp;&nbsp;&nbsp; MySQL
+</p>
+
+<h3>Tools</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="46" height="46" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="46" height="46" />
+</p>
+
+<p>
+  Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Vite &nbsp;&nbsp;&nbsp; Figma
+</p>
+
+</div>
