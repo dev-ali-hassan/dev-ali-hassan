@@ -15,74 +15,95 @@
 
 <br />
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
 <table>
+  <!-- Frontend -->
   <tr>
-    <td width="170">
-      <b>🟣 FRONTEND</b>
+    <td width="170"><b>🟣 FRONTEND</b></td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="55"><br>
+      React
     </td>
 
-    <td colspan="6" align="left">
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="55"><br>
+      TypeScript
+    </td>
 
-<img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
-<img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="55"><br>
+      JavaScript
+    </td>
 
-<br><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="55"><br>
+      HTML5
+    </td>
 
-React &nbsp;&nbsp;&nbsp;
-TypeScript &nbsp;&nbsp;&nbsp;
-JavaScript &nbsp;&nbsp;&nbsp;
-HTML5 &nbsp;&nbsp;&nbsp;
-CSS3 &nbsp;&nbsp;&nbsp;
-Tailwind
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="55"><br>
+      CSS3
+    </td>
 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55"><br>
+      Tailwind
     </td>
   </tr>
 
+  <!-- Backend -->
   <tr>
-    <td width="170">
-      <b>🟣 BACKEND</b>
+    <td><b>🟣 BACKEND</b></td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
+      Node.js
     </td>
 
-    <td colspan="6" align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
-<img src="https://skillicons.dev/icons?i=express" width="55" alt="Express"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
-
-<br><br>
-
-Node.js &nbsp;&nbsp;&nbsp;
-Express &nbsp;&nbsp;&nbsp;
-MySQL
-
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="55"><br>
+      Express
     </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
+      MySQL
+    </td>
+
+    <!-- Empty cells -->
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
+  <!-- Tools -->
   <tr>
-    <td width="170">
-      <b>🟣 TOOLS</b>
+    <td><b>🟣 TOOLS</b></td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="55"><br>
+      Git
     </td>
 
-    <td colspan="6" align="left">
-
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
-<img src="https://skillicons.dev/icons?i=vite" width="55" alt="Vite"/>
-
-<br><br>
-
-Git &nbsp;&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;&nbsp;
-VS Code &nbsp;&nbsp;&nbsp;
-Vite
-
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="55"><br>
+      GitHub
     </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55"><br>
+      VS Code
+    </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="55"><br>
+      Vite
+    </td>
+
+    <!-- Empty cells -->
+    <td></td>
+    <td></td>
   </tr>
 </table>
