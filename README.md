@@ -13,33 +13,78 @@
 </p>
 <br />
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
 <table>
-<tr>
-<td width="120"><b>Frontend</b></td>
-<td>
+  <tr>
+    <td width="130"><b>🟣 FRONTEND</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48"><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="48"><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="48"><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="48"><br>
+      HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="48"><br>
+      CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>
+      Tailwind
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+  <tr><td height="20"></td></tr>
 
-</td>
-</tr>
+  <tr>
+    <td><b>🟣 BACKEND</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="48"><br>
+      Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="48"><br>
+      PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"><br>
+      MySQL
+    </td>
+  </tr>
 
-<tr>
-<td><b>Backend</b></td>
-<td>
+  <tr><td height="20"></td></tr>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma" />
-
-</td>
-</tr>
+  <tr>
+    <td><b>🟣 TOOLS</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48"><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48"><br>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"><br>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="48"><br>
+      Vite
+    </td>
+  </tr>
 </table>
