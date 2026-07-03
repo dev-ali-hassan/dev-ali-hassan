@@ -60,6 +60,10 @@
       Express
     </td>
   </tr>
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=rust" width="55"><br>
+  Rust
+</td>
 
   <tr><td height="20"></td></tr>
 
@@ -81,5 +85,9 @@
       <img src="https://skillicons.dev/icons?i=vite" width="48"><br>
       Vite
     </td>
+    <td align="center">
+  <img src="https://skillicons.dev/icons?i=tauri" width="55"><br>
+  Tauri
+</td>
   </tr>
 </table>
