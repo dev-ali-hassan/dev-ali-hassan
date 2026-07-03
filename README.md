@@ -15,72 +15,78 @@
 
 <br />
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
-<div align="center">
+<table>
+  <tr>
+    <td width="130"><b>🟣 FRONTEND</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48"><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="48"><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="48"><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="48"><br>
+      HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="48"><br>
+      CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>
+      Tailwind
+    </td>
+  </tr>
 
-  <h3>
-    <span style="color:#a855f7;">FRONTEND</span>
-  </h3>
+  <tr><td height="20"></td></tr>
 
-  <p>
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="46" height="46" alt="React" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="46" height="46" alt="TypeScript" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="46" height="46" alt="JavaScript" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="46" height="46" alt="HTML5" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/css3/1572B6" width="46" height="46" alt="CSS3" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="46" height="46" alt="Tailwind" />
-  </p>
+  <tr>
+    <td><b>🟣 BACKEND</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="48"><br>
+      Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="48"><br>
+      PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"><br>
+      MySQL
+    </td>
+  </tr>
 
-  <p>
-    React &nbsp;&nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; HTML5 &nbsp;&nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp;&nbsp; Tailwind
-  </p>
+  <tr><td height="20"></td></tr>
 
-  <br />
-
-  <h3>
-    <span style="color:#a855f7;">BACKEND</span>
-  </h3>
-
-  <p>
-    <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="46" height="46" alt="Node.js" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/express/FFFFFF" width="46" height="46" alt="Express" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/php/777BB4" width="46" height="46" alt="PHP" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="46" height="46" alt="MySQL" />
-  </p>
-
-  <p>
-    Node.js &nbsp;&nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp;&nbsp; PHP &nbsp;&nbsp;&nbsp;&nbsp; MySQL
-  </p>
-
-  <br />
-
-  <h3>
-    <span style="color:#a855f7;">TOOLS</span>
-  </h3>
-
-  <p>
-    <img src="https://cdn.simpleicons.org/git/F05032" width="46" height="46" alt="Git" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" height="46" alt="GitHub" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="46" height="46" alt="VS Code" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/vite/646CFF" width="46" height="46" alt="Vite" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" width="46" height="46" alt="Figma" />
-  </p>
-
-  <p>
-    Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; Vite &nbsp;&nbsp;&nbsp;&nbsp; Figma
-  </p>
-
-</div>
+  <tr>
+    <td><b>🟣 TOOLS</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48"><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48"><br>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"><br>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="48"><br>
+      Vite
+    </td>
+  </tr>
+</table>
