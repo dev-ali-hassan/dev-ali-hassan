@@ -58,11 +58,6 @@
       <img src="https://skillicons.dev/icons?i=express" width="48"><br>
       Express
     </td>
-  
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"><br>
-      MySQL
-    </td>
   </tr>
 
   <tr><td height="20"></td></tr>
