@@ -6,7 +6,7 @@
   />
 </p>
 
-<h2 align="center">Who Am I?</h2>
+<h2 align="center">🌌 Who Am I ?</h2>
 
 <p align="center">
   Full Stack Developer passionate about creating modern web, mobile, and desktop applications with performance, scalability, and exceptional user experiences in mind.
