@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="130"><b>🟣 FRONTEND</b></td>
+    <td width="130"><b> FRONTEND</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="48"><br>
       React
@@ -49,7 +49,7 @@
   <tr><td height="20"></td></tr>
 
   <tr>
-    <td><b>🟣 BACKEND</b></td>
+    <td><b> BACKEND</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>
       Node.js
@@ -58,10 +58,7 @@
       <img src="https://skillicons.dev/icons?i=express" width="48"><br>
       Express
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" width="48"><br>
-      PHP
-    </td>
+  
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="48"><br>
       MySQL
@@ -71,7 +68,7 @@
   <tr><td height="20"></td></tr>
 
   <tr>
-    <td><b>🟣 TOOLS</b></td>
+    <td><b> TOOLS</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="48"><br>
       Git
