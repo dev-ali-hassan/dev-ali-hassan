@@ -59,10 +59,10 @@
       <img src="https://skillicons.dev/icons?i=express" width="48"><br>
       Express
     </td>
-  </tr>
   <td align="center">
   <img src="https://skillicons.dev/icons?i=rust" width="55"><br>
   Rust
+  </tr>
 </td>
 
   <tr><td height="20"></td></tr>
